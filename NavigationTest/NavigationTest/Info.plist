@@ -62,5 +62,13 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>CFBundleDisplayName</key>
+	<array>
+		<string></string>
+	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Your location is shared</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Your location is shared</string>
 </dict>
 </plist>
